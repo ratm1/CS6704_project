@@ -7,4 +7,4 @@
 
 ### Information
 * CROMU_00007 is taken from https://github.com/mykter/afl-training and https://github.com/trailofbits/cb-multios
-* The samples from CyberGrandChallenge are https://github.com/CyberGrandChallenge/samples/tree/master/examples/CROMU_00007
+* The samples from Darpa Challenge are https://github.com/CyberGrandChallenge/samples/tree/master/examples/CROMU_00007
