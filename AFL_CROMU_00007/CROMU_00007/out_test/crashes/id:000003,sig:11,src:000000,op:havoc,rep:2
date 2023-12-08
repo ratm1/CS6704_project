@@ -1,0 +1,4 @@
+employee_id-1`employee_name-William Riker`wage-75`exempt-yes`
+employee_id-1`week-1`monday-24h59m`|uesday-24h59m`wednesday-24h5932m`
+query-week`employee_id-59m`saturday-5h0m`sunday-3h32m`
+query-week`employee_id-1`week-1`
