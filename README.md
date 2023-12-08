@@ -5,6 +5,7 @@
 4. The experiments with artificial neural networks are in https://colab.research.google.com/drive/1iDp79Bxm2jm3AK1X_GPxDs_Mid14zDlA?usp=sharing
 5. In GoogleCollab "/content/drive/MyDrive/AFL_files". AFL_files is the folder that can be changed accordingly.
 
-# Information
-CROMU_00007 taken from https://github.com/mykter/afl-training and https://github.com/trailofbits/cb-multios.
+### Information
+CROMU_00007 taken from https://github.com/mykter/afl-training and https://github.com/trailofbits/cb-multios
+
 The samples from CyberGrandChallenge are https://github.com/CyberGrandChallenge/samples/tree/master/examples/CROMU_00007
